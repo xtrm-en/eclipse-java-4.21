@@ -1,5 +1,6 @@
 # Maintainer: Mattia Moffa <mattia [at] moffa [dot] xyz>
 # Maintainer: Morgenstern <charles [at] charlesbwise [dot] com>
+# Maintainer: xtrm <oss [at] xtrm [dot] me>
 
 pkgname=eclipse-java
 epoch=2
